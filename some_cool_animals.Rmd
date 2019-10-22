@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##### A note on this project:
 
+* Second try * 
+
 The organization of this document probably seems strange. That's because it's part of an entire multi-part lab for ESM 206, which students will create in multiple projects (but are combined here for easier sharing). Hence the weird unrelated pieces all put together in this project (students will create Parts 2 & 3 as separate projects).
 
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
@@ -53,6 +55,11 @@ The organization of this document probably seems strange. That's because it's pa
 
 ![Photo: Courtesy of the VA Zoo](img/ringtail_cat.jpg)
 
+##### Ringtail cats fun facts: 
+
+- can rotate their hind feet 180 degreees to climb better
+- their populations are stable, but they are elusive
+- they are closely related to racoons 
 
 ### 
 
